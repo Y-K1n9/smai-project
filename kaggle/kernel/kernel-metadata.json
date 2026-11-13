@@ -1,0 +1,13 @@
+{
+  "id": "yking24/smai-unet-v3",
+  "title": "smai unet v3",
+  "code_file": "smai-mlProject_v3_kaggle.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": false,
+  "dataset_sources": ["yking24/rod-ornament-cqt"],
+  "kernel_sources": [],
+  "competition_sources": []
+}
